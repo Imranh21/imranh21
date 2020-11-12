@@ -12,9 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Biased
 
-```Javascript
-var names = ["Alislam", "Bappy", "Al-amin"];
-names.map((name) => {
-  console.log(name)
-});
-```
+
+loop ```for
