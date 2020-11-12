@@ -11,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... imranarafat221@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Biased
--->
+
+```Javascript
+var names = ["Alislam", "Bappy", "Al-amin"];
+names.map((name) => {
+  console.log(name)
+});
+```
